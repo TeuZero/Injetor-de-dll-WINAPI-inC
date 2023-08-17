@@ -1,3 +1,7 @@
+/**************
+* By: Teuzero *
+***************/
+
 #include <windows.h>
 #include <iostream>
 #include "main.h"
